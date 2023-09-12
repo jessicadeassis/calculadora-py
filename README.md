@@ -1,13 +1,13 @@
-### Calculadora simples em Python
+### A Simple Python Calculator
 
-Nesse código, as variáveis utilizadas são:
+In this code, the variables used are:
 
-`choice`: Armazena a opção selecionada pelo usuário (operação desejada).
+`choice`: Stores the option selected by the user (desired operation).
 
-`num1`: Armazena o primeiro número fornecido pelo usuário.
+`num1`: Stores the first number provided by the user.
 
-`num2`: Armazena o segundo número fornecido pelo usuário.
+`num2`: Stores the second number provided by the user.
 
-Além das variáveis, as funções `add`, `subtract`, `multiply` e `divide` também são definidas para realizar as operações matemáticas correspondentes. 
+In addition to variables, the functions `add`, `subtract`, `multiply` and `divide` are also defined to perform the corresponding mathematical operations.
 
-Cada função possui parâmetros x e y, que são os números a serem operados.
+Each function has parameters x and y, which are the numbers to be operated on.
